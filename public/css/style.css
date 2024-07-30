@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(15, 23, 61);
+    
+}
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+    padding-right: 20px;
+    padding-left: 200px;
+}
+
+.btngen{
+    padding-right: 30px;
+    padding-left: 400px;
+}
+
+.textarea{
+    padding-right: 20px;
+    padding-left: 37px;
+  
+}
